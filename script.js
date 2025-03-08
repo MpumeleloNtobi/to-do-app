@@ -1,4 +1,16 @@
 "use strict";
+let MyTasks=[];
+ 
 
+ function Add_MyTasks(){
+    const input_element= document.querySelector('input[name="task"]')
+    const input_value=input_element.value.trim() ;
+    MyTasks.push(input_value);
+    
+    
+        input_element.value="";
+    
+        console.log(MyTasks); 
+ }
 
-console.log("Start wrirting function")
+ //console.log(MyTasks);

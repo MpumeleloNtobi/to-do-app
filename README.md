@@ -1,13 +1,5 @@
 # To-Do List Application 
-### Features 
-- Add Task
-- Remove Task
-- Update Task
-- Display Task 
 
-### How to Contribute?
-- Pull main branch 
-- Branch out - create your own branch locally# To-Do List Application 
 ### Core Features 
 - Add a task into a tasks list
 - Remove a task from a tasks list
